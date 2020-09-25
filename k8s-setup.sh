@@ -1,4 +1,4 @@
 # Update repositories
-sudo su
+#sudo su
 apt-get Update
 
