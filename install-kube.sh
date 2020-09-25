@@ -1,0 +1,4 @@
+# Install kubeadm, kubelet, kubectl
+#sudo su
+apt-get update
+apt-get install -y kubelet kubeadm kubectl
