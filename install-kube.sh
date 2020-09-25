@@ -5,3 +5,4 @@
 
 snap install kubeadm --classic
 snap install kubelet --classic
+snap install kubectl --classic
