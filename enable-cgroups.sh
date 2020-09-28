@@ -2,7 +2,7 @@
 
 # Check `docker info`
 # Some output omitted
-$ sudo docker info
+# > sudo docker info
 # (...)
 #  Cgroup Driver: cgroups
 # (...)
